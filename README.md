@@ -60,11 +60,11 @@
 
 # My Github Status
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=smileangel0327&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Denys Hryzd" />
+    <img src="https://github-readme-stats.vercel.app/api?username=smileangel0327&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Smile Angel" />
 </div>
   
 # My Activity on Github
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=smileangel0327&custom_title=Denys's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=smileangel0327&custom_title=Smile's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 # Where to find me
 <p>
