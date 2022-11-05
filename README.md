@@ -56,20 +56,19 @@
 ---
 
 # My Github Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=smileangel0327)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=angelsoft-tech)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My Github Status
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=smileangel0327&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Smile Angel" />
+    <img src="https://github-readme-stats.vercel.app/api?username=angelsoft-tech&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Smile Angel" />
 </div>
   
 # My Activity on Github
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=smileangel0327&custom_title=Smile's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=angelsoft-tech&custom_title=Smile's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 # Where to find me
 <p>
-  <a href="https://github.com/smileangel0327" target="_blank">
+  <a href="https://github.com/angelsoft-tech" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
 </p>
-
