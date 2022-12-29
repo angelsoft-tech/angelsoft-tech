@@ -63,7 +63,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 </div>
   
 # My Activity on Github
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=angelsoft-tech&custom_title=Smile's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=angelsoft-tech&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 # Where to find me
 <p>
