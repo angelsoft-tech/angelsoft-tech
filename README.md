@@ -56,18 +56,3 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 # My Github Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelsoft-tech)](https://github.com/ryo-ma/github-profile-trophy)
-
-# My Github Status
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=angelsoft-tech&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Smile Angel" />
-</div>
-  
-# My Activity on Github
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=angelsoft-tech&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-# Where to find me
-<p>
-  <a href="https://github.com/angelsoft-tech" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
-</p>
