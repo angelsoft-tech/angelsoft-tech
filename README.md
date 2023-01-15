@@ -52,7 +52,5 @@ My passion for software lies with dreaming up ideas and making them come true wi
   </tr>  
 </table>
 
----
-
-# My Github Trophys
+## My Github Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelsoft-tech)](https://github.com/ryo-ma/github-profile-trophy)
